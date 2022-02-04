@@ -1,19 +1,19 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Cigarro Free do verde",
-            "price": 10.25
-        },
-        {
-            "id": 2,
-            "name": "Xiaomi Redmi Note 8",
-            "price": 2000
-        },
-        {
-            "id": 3,
-            "name": "Biblia",
-            "price": 0.00
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Cigarro Free do verde",
+      "price": 10.25
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi Redmi Note 8",
+      "price": 2000
+    },
+    {
+      "id": 3,
+      "name": "Biblia",
+      "price": 0
+    }
+  ]
 }
