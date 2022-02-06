@@ -3,17 +3,22 @@
     {
       "id": 1,
       "name": "Cigarro Free do verde",
-      "price": 10.25
+      "price": "10.20"
     },
     {
       "id": 2,
-      "name": "Xiaomi Redmi Note 8",
+      "name": "Xiaomi Redmi Note 7",
       "price": 2000
     },
     {
       "id": 3,
       "name": "Biblia",
       "price": 0
+    },
+    {
+      "name": "Casaco",
+      "price": "20",
+      "id": 4
     }
   ]
 }
